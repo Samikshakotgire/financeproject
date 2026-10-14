@@ -1,0 +1,19 @@
+date,description,debit,credit,balance,merchant,category,account_holder,currency,declared_monthly_income,opening_balance,closing_balance
+2026-01-01,Opening salary credit,,85000.00,185000.00,,salary,Asha Iyer,INR,85000,100000,157400
+2026-01-05,UPI grocery BigBasket,2400.00,,182600.00,BigBasket,grocery,Asha Iyer,INR,85000,100000,157400
+2026-01-08,Housing loan EMI HDFC,22000.00,,160600.00,HDFC Bank,emi,Asha Iyer,INR,85000,100000,157400
+2026-01-12,UPI rent landlord,18000.00,,142600.00,,rent,Asha Iyer,INR,85000,100000,157400
+2026-01-18,Credit card payment,8000.00,,134600.00,HDFC CC,credit_card,Asha Iyer,INR,85000,100000,157400
+2026-01-22,UPI fuel IOCL,3500.00,,131100.00,IOCL,fuel,Asha Iyer,INR,85000,100000,157400
+2026-01-28,UPI utilities BESCOM,1200.00,,129900.00,BESCOM,utilities,Asha Iyer,INR,85000,100000,157400
+2026-02-01,Opening salary credit,,85000.00,214900.00,,salary,Asha Iyer,INR,85000,100000,157400
+2026-02-08,Housing loan EMI HDFC,22000.00,,192900.00,HDFC Bank,emi,Asha Iyer,INR,85000,100000,157400
+2026-02-12,UPI rent landlord,18000.00,,174900.00,,rent,Asha Iyer,INR,85000,100000,157400
+2026-02-18,Credit card payment,8000.00,,166900.00,HDFC CC,credit_card,Asha Iyer,INR,85000,100000,157400
+2026-02-20,UPI grocery BigBasket,2100.00,,164800.00,BigBasket,grocery,Asha Iyer,INR,85000,100000,157400
+2026-02-27,UPI utilities BESCOM,1400.00,,163400.00,BESCOM,utilities,Asha Iyer,INR,85000,100000,157400
+2026-03-01,Opening salary credit,,85000.00,248400.00,,salary,Asha Iyer,INR,85000,100000,157400
+2026-03-08,Housing loan EMI HDFC,22000.00,,226400.00,HDFC Bank,emi,Asha Iyer,INR,85000,100000,157400
+2026-03-12,UPI rent landlord,18000.00,,208400.00,,rent,Asha Iyer,INR,85000,100000,157400
+2026-03-18,Credit card payment,8000.00,,200400.00,HDFC CC,credit_card,Asha Iyer,INR,85000,100000,157400
+2026-03-25,NEFT transfer to investments,43000.00,,157400.00,Zerodha,investment,Asha Iyer,INR,85000,100000,157400

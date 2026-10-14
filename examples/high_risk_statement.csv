@@ -1,0 +1,9 @@
+date,description,debit,credit,balance,merchant,category,account_holder,currency,declared_monthly_income
+2026-04-01,Freelance inflow,,32000.00,42000.00,,other,Rohit Sen,INR,32000
+2026-04-03,Dream11 wallet load,18000.00,,24000.00,Dream11,gambling,Rohit Sen,INR,32000
+2026-04-04,Stake casino,9000.00,,15000.00,Stake,gambling,Rohit Sen,INR,32000
+2026-04-05,Payday lender EMI,12000.00,,3000.00,CashBean,payday_lending,Rohit Sen,INR,32000
+2026-04-06,Crypto exchange INR,2500.00,,500.00,WazirX,crypto_exchange,Rohit Sen,INR,32000
+2026-04-10,ATM cash advance,200.00,,300.00,MerchantCash,cash_advance,Rohit Sen,INR,32000
+2026-04-15,Salary leftover,,5000.00,5300.00,,salary,Rohit Sen,INR,32000
+2026-04-16,RummyCircle,4000.00,,1300.00,RummyCircle,gambling,Rohit Sen,INR,32000
